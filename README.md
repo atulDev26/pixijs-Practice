@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+Video help :- https://www.youtube.com/watch?v=ajaduDDePIY
+and article :- https://waelyasmina.net/articles/pixi-js-tutorial-for-complete-beginners/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
